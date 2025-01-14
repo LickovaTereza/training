@@ -20196,6 +20196,10 @@ textarea.form-control-lg {
   content: "賈";
 }
 
+body {
+  background-color: whitesmoke;
+}
+
 main .comment {
   font-size: 0.8rem;
 }/*# sourceMappingURL=style.css.map */
